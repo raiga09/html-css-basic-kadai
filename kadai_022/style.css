@@ -62,7 +62,7 @@ footer a:visited{
 footer a:hover{
     color: rgb(245, 178, 168);
 }
-@media screen and(max-width:768px){
+@media screen and (max-width:768px){
     h2{
         font-size: 30px;
     }
@@ -70,6 +70,6 @@ footer a:hover{
         font-size: 25px;
     }
     #parent{
-        display: flex;
+        flex-direction: column;
     }
 }
