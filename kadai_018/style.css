@@ -12,18 +12,18 @@
 #middle{
     width: 800px;
     height: 800px;
-    padding: 20px;
-    background: #ffd9df;
-    margin: 0 auto;
+    margin: 20px auto;
+    background-color: #ffd9df;
     position: relative;
     box-sizing: border-box;
     margin-bottom: 10px;
 }
-#middle-child01 , #middle-child02 , #middle-child03{
+
+#middle div{
     width: 200px;
     height: 200px;
     background: #87ceeb;
-    position: relative;
+
 }
 #middle-child01{
     position: absolute;
